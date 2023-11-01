@@ -1,0 +1,26 @@
+[
+    {
+        "name": "John",
+        "phones": [
+            "5555555555"
+        ],
+        "birthday": "2003-07-11",
+        "days to birthday": 253
+    },
+    {
+        "name": "Tanya",
+        "phones": [
+            "0852869490"
+        ],
+        "birthday": "1990-09-12",
+        "days to birthday": 316
+    },
+    {
+        "name": "vova",
+        "phones": [
+            "0852869490"
+        ],
+        "birthday": "2000-02-28",
+        "days to birthday": 119
+    }
+]
